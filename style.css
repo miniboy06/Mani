@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+}
+
+img{
+    height:250px;
+    width:250px;
+    border-style: double;
+    border-color: aqua;
+    border-radius: 50%;
+    position: absolute;
+    right: 40px;
+    top:40px;
+}
